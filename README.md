@@ -8,9 +8,6 @@ files used to verify the DGGC experiments reported in the paper.
 ```text
 DGGC/
 ├── README.md
-├── SUPPLEMENTAL_MATERIAL_STATEMENT.txt
-├── ANONYMIZATION_CHECKLIST.md
-├── MANIFEST.csv
 ├── requirements.txt
 ├── environment.yml
 ├── configs/
